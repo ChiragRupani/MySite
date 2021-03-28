@@ -1,11 +1,11 @@
 {
   "files": {
-    "AboutMe.js": "/MySite/static/js/AboutMe.6b0f6d81.chunk.js",
+    "AboutMe.js": "/MySite/static/js/AboutMe.98a4375b.chunk.js",
     "Blogs.js": "/MySite/static/js/Blogs.2cff0433.chunk.js",
-    "Projects.js": "/MySite/static/js/Projects.df6cbc0d.chunk.js",
-    "main.css": "/MySite/static/css/main.cfc5da03.chunk.css",
-    "main.js": "/MySite/static/js/main.ae857e38.chunk.js",
-    "runtime-main.js": "/MySite/static/js/runtime-main.6c3d9e3b.js",
+    "Projects.js": "/MySite/static/js/Projects.5f229bc1.chunk.js",
+    "main.css": "/MySite/static/css/main.5fbf449d.chunk.css",
+    "main.js": "/MySite/static/js/main.5aaa4c51.chunk.js",
+    "runtime-main.js": "/MySite/static/js/runtime-main.8a2229e5.js",
     "static/css/5.cfbe8591.chunk.css": "/MySite/static/css/5.cfbe8591.chunk.css",
     "static/js/5.8d744f2f.chunk.js": "/MySite/static/js/5.8d744f2f.chunk.js",
     "index.html": "/MySite/index.html",
@@ -13,10 +13,10 @@
     "static/js/5.8d744f2f.chunk.js.LICENSE.txt": "/MySite/static/js/5.8d744f2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c3d9e3b.js",
+    "static/js/runtime-main.8a2229e5.js",
     "static/css/5.cfbe8591.chunk.css",
     "static/js/5.8d744f2f.chunk.js",
-    "static/css/main.cfc5da03.chunk.css",
-    "static/js/main.ae857e38.chunk.js"
+    "static/css/main.5fbf449d.chunk.css",
+    "static/js/main.5aaa4c51.chunk.js"
   ]
 }
