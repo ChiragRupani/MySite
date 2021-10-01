@@ -1,22 +1,31 @@
 {
   "files": {
-    "AboutMe.js": "https://chiragrupani.github.io/MySite/static/js/AboutMe.ce711ff7.chunk.js",
-    "Blogs.js": "https://chiragrupani.github.io/MySite/static/js/Blogs.2cff0433.chunk.js",
-    "Projects.js": "https://chiragrupani.github.io/MySite/static/js/Projects.5f229bc1.chunk.js",
-    "main.css": "https://chiragrupani.github.io/MySite/static/css/main.cd670021.chunk.css",
-    "main.js": "https://chiragrupani.github.io/MySite/static/js/main.a7bc5a46.chunk.js",
-    "runtime-main.js": "https://chiragrupani.github.io/MySite/static/js/runtime-main.91b807ac.js",
-    "static/css/5.cfbe8591.chunk.css": "https://chiragrupani.github.io/MySite/static/css/5.cfbe8591.chunk.css",
-    "static/js/5.9d9337c3.chunk.js": "https://chiragrupani.github.io/MySite/static/js/5.9d9337c3.chunk.js",
-    "index.html": "https://chiragrupani.github.io/MySite/index.html",
-    "service-worker.js": "https://chiragrupani.github.io/MySite/service-worker.js",
-    "static/js/5.9d9337c3.chunk.js.LICENSE.txt": "https://chiragrupani.github.io/MySite/static/js/5.9d9337c3.chunk.js.LICENSE.txt"
+    "AboutMe.js": "/static/js/AboutMe.ce711ff7.chunk.js",
+    "AboutMe.js.map": "/static/js/AboutMe.ce711ff7.chunk.js.map",
+    "Blogs.js": "/static/js/Blogs.2cff0433.chunk.js",
+    "Blogs.js.map": "/static/js/Blogs.2cff0433.chunk.js.map",
+    "Projects.js": "/static/js/Projects.5f229bc1.chunk.js",
+    "Projects.js.map": "/static/js/Projects.5f229bc1.chunk.js.map",
+    "main.css": "/static/css/main.84ab4534.chunk.css",
+    "main.js": "/static/js/main.f0678e73.chunk.js",
+    "main.js.map": "/static/js/main.f0678e73.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5d10d0a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5d10d0a5.js.map",
+    "static/css/5.f2512455.chunk.css": "/static/css/5.f2512455.chunk.css",
+    "static/js/5.c1e2a6ad.chunk.js": "/static/js/5.c1e2a6ad.chunk.js",
+    "static/js/5.c1e2a6ad.chunk.js.map": "/static/js/5.c1e2a6ad.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/5.f2512455.chunk.css.map": "/static/css/5.f2512455.chunk.css.map",
+    "static/css/main.84ab4534.chunk.css.map": "/static/css/main.84ab4534.chunk.css.map",
+    "static/js/5.c1e2a6ad.chunk.js.LICENSE.txt": "/static/js/5.c1e2a6ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.91b807ac.js",
-    "static/css/5.cfbe8591.chunk.css",
-    "static/js/5.9d9337c3.chunk.js",
-    "static/css/main.cd670021.chunk.css",
-    "static/js/main.a7bc5a46.chunk.js"
+    "static/js/runtime-main.5d10d0a5.js",
+    "static/css/5.f2512455.chunk.css",
+    "static/js/5.c1e2a6ad.chunk.js",
+    "static/css/main.84ab4534.chunk.css",
+    "static/js/main.f0678e73.chunk.js"
   ]
 }
