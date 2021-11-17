@@ -1,31 +1,22 @@
 {
   "files": {
-    "AboutMe.js": "/static/js/AboutMe.10e2b461.chunk.js",
-    "AboutMe.js.map": "/static/js/AboutMe.10e2b461.chunk.js.map",
-    "Blogs.js": "/static/js/Blogs.2cff0433.chunk.js",
-    "Blogs.js.map": "/static/js/Blogs.2cff0433.chunk.js.map",
-    "Projects.js": "/static/js/Projects.5f229bc1.chunk.js",
-    "Projects.js.map": "/static/js/Projects.5f229bc1.chunk.js.map",
-    "main.css": "/static/css/main.06a0d4ee.chunk.css",
-    "main.js": "/static/js/main.b17cc4bf.chunk.js",
-    "main.js.map": "/static/js/main.b17cc4bf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b1215cc5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b1215cc5.js.map",
-    "static/css/5.f2512455.chunk.css": "/static/css/5.f2512455.chunk.css",
-    "static/js/5.c1e2a6ad.chunk.js": "/static/js/5.c1e2a6ad.chunk.js",
-    "static/js/5.c1e2a6ad.chunk.js.map": "/static/js/5.c1e2a6ad.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/5.f2512455.chunk.css.map": "/static/css/5.f2512455.chunk.css.map",
-    "static/css/main.06a0d4ee.chunk.css.map": "/static/css/main.06a0d4ee.chunk.css.map",
-    "static/js/5.c1e2a6ad.chunk.js.LICENSE.txt": "/static/js/5.c1e2a6ad.chunk.js.LICENSE.txt"
+    "AboutMe.js": "https://chiragrupani.github.io/MySite/static/js/AboutMe.10e2b461.chunk.js",
+    "Blogs.js": "https://chiragrupani.github.io/MySite/static/js/Blogs.2cff0433.chunk.js",
+    "Projects.js": "https://chiragrupani.github.io/MySite/static/js/Projects.5f229bc1.chunk.js",
+    "main.css": "https://chiragrupani.github.io/MySite/static/css/main.e50fb943.chunk.css",
+    "main.js": "https://chiragrupani.github.io/MySite/static/js/main.9f2689c1.chunk.js",
+    "runtime-main.js": "https://chiragrupani.github.io/MySite/static/js/runtime-main.f3f985b2.js",
+    "static/css/5.23d72787.chunk.css": "https://chiragrupani.github.io/MySite/static/css/5.23d72787.chunk.css",
+    "static/js/5.c1e2a6ad.chunk.js": "https://chiragrupani.github.io/MySite/static/js/5.c1e2a6ad.chunk.js",
+    "index.html": "https://chiragrupani.github.io/MySite/index.html",
+    "service-worker.js": "https://chiragrupani.github.io/MySite/service-worker.js",
+    "static/js/5.c1e2a6ad.chunk.js.LICENSE.txt": "https://chiragrupani.github.io/MySite/static/js/5.c1e2a6ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1215cc5.js",
-    "static/css/5.f2512455.chunk.css",
+    "static/js/runtime-main.f3f985b2.js",
+    "static/css/5.23d72787.chunk.css",
     "static/js/5.c1e2a6ad.chunk.js",
-    "static/css/main.06a0d4ee.chunk.css",
-    "static/js/main.b17cc4bf.chunk.js"
+    "static/css/main.e50fb943.chunk.css",
+    "static/js/main.9f2689c1.chunk.js"
   ]
 }
