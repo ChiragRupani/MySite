@@ -1,22 +1,15 @@
 {
   "files": {
-    "AboutMe.js": "https://chiragrupani.github.io/MySite/static/js/AboutMe.326bfc85.chunk.js",
-    "Blogs.js": "https://chiragrupani.github.io/MySite/static/js/Blogs.99dbfe44.chunk.js",
-    "Projects.js": "https://chiragrupani.github.io/MySite/static/js/Projects.8f4dd72b.chunk.js",
-    "main.css": "https://chiragrupani.github.io/MySite/static/css/main.aa57c02b.chunk.css",
-    "main.js": "https://chiragrupani.github.io/MySite/static/js/main.451026d2.chunk.js",
-    "runtime-main.js": "https://chiragrupani.github.io/MySite/static/js/runtime-main.1befd4fb.js",
-    "static/css/5.55f51080.chunk.css": "https://chiragrupani.github.io/MySite/static/css/5.55f51080.chunk.css",
-    "static/js/5.28886f1c.chunk.js": "https://chiragrupani.github.io/MySite/static/js/5.28886f1c.chunk.js",
-    "index.html": "https://chiragrupani.github.io/MySite/index.html",
+    "main.css": "https://chiragrupani.github.io/MySite/static/css/main.45cde1e8.css",
+    "main.js": "https://chiragrupani.github.io/MySite/static/js/main.8cd2943d.js",
+    "AboutMe.js": "https://chiragrupani.github.io/MySite/static/js/AboutMe.48e095e8.chunk.js",
+    "Blogs.js": "https://chiragrupani.github.io/MySite/static/js/Blogs.56afcbc5.chunk.js",
+    "Projects.js": "https://chiragrupani.github.io/MySite/static/js/Projects.5456471e.chunk.js",
     "service-worker.js": "https://chiragrupani.github.io/MySite/service-worker.js",
-    "static/js/5.28886f1c.chunk.js.LICENSE.txt": "https://chiragrupani.github.io/MySite/static/js/5.28886f1c.chunk.js.LICENSE.txt"
+    "index.html": "https://chiragrupani.github.io/MySite/index.html"
   },
   "entrypoints": [
-    "static/js/runtime-main.1befd4fb.js",
-    "static/css/5.55f51080.chunk.css",
-    "static/js/5.28886f1c.chunk.js",
-    "static/css/main.aa57c02b.chunk.css",
-    "static/js/main.451026d2.chunk.js"
+    "static/css/main.45cde1e8.css",
+    "static/js/main.8cd2943d.js"
   ]
 }
