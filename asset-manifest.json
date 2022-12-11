@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://chiragrupani.github.io/MySite/static/css/main.bae73ed2.css",
-    "main.js": "https://chiragrupani.github.io/MySite/static/js/main.80ab5e06.js",
-    "AboutMe.js": "https://chiragrupani.github.io/MySite/static/js/AboutMe.5d3c534d.chunk.js",
+    "main.css": "https://chiragrupani.github.io/MySite/static/css/main.cfa0a903.css",
+    "main.js": "https://chiragrupani.github.io/MySite/static/js/main.2daf2df6.js",
+    "AboutMe.js": "https://chiragrupani.github.io/MySite/static/js/AboutMe.5b4f60b8.chunk.js",
     "Blogs.js": "https://chiragrupani.github.io/MySite/static/js/Blogs.a474d1d0.chunk.js",
     "Projects.js": "https://chiragrupani.github.io/MySite/static/js/Projects.56ac41fc.chunk.js",
     "service-worker.js": "https://chiragrupani.github.io/MySite/service-worker.js",
     "index.html": "https://chiragrupani.github.io/MySite/index.html"
   },
   "entrypoints": [
-    "static/css/main.bae73ed2.css",
-    "static/js/main.80ab5e06.js"
+    "static/css/main.cfa0a903.css",
+    "static/js/main.2daf2df6.js"
   ]
 }
