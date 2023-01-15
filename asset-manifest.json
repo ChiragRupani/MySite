@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "https://chiragrupani.github.io/MySite/static/css/main.cfa0a903.css",
-    "main.js": "https://chiragrupani.github.io/MySite/static/js/main.2daf2df6.js",
-    "AboutMe.js": "https://chiragrupani.github.io/MySite/static/js/AboutMe.5b4f60b8.chunk.js",
-    "Blogs.js": "https://chiragrupani.github.io/MySite/static/js/Blogs.a474d1d0.chunk.js",
-    "Projects.js": "https://chiragrupani.github.io/MySite/static/js/Projects.56ac41fc.chunk.js",
-    "service-worker.js": "https://chiragrupani.github.io/MySite/service-worker.js",
-    "index.html": "https://chiragrupani.github.io/MySite/index.html"
+    "main.css": "http://localhost:3000/static/css/main.4364b39d.css",
+    "main.js": "http://localhost:3000/static/js/main.6cb99de5.js",
+    "AboutMe.js": "http://localhost:3000/static/js/AboutMe.f8e20990.chunk.js",
+    "Blogs.js": "http://localhost:3000/static/js/Blogs.adf1b814.chunk.js",
+    "Projects.js": "http://localhost:3000/static/js/Projects.979347ce.chunk.js",
+    "service-worker.js": "http://localhost:3000/service-worker.js",
+    "index.html": "http://localhost:3000/index.html",
+    "main.4364b39d.css.map": "http://localhost:3000/static/css/main.4364b39d.css.map",
+    "main.6cb99de5.js.map": "http://localhost:3000/static/js/main.6cb99de5.js.map",
+    "AboutMe.f8e20990.chunk.js.map": "http://localhost:3000/static/js/AboutMe.f8e20990.chunk.js.map",
+    "Blogs.adf1b814.chunk.js.map": "http://localhost:3000/static/js/Blogs.adf1b814.chunk.js.map",
+    "Projects.979347ce.chunk.js.map": "http://localhost:3000/static/js/Projects.979347ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfa0a903.css",
-    "static/js/main.2daf2df6.js"
+    "static/css/main.4364b39d.css",
+    "static/js/main.6cb99de5.js"
   ]
 }
