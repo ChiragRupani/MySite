@@ -1,20 +1,15 @@
 {
   "files": {
-    "main.css": "http://localhost:3000/static/css/main.d5ccac04.css",
-    "main.js": "http://localhost:3000/static/js/main.c2536ce6.js",
-    "AboutMe.js": "http://localhost:3000/static/js/AboutMe.f8e20990.chunk.js",
-    "Blogs.js": "http://localhost:3000/static/js/Blogs.0e23fbab.chunk.js",
-    "Projects.js": "http://localhost:3000/static/js/Projects.979347ce.chunk.js",
-    "service-worker.js": "http://localhost:3000/service-worker.js",
-    "index.html": "http://localhost:3000/index.html",
-    "main.d5ccac04.css.map": "http://localhost:3000/static/css/main.d5ccac04.css.map",
-    "main.c2536ce6.js.map": "http://localhost:3000/static/js/main.c2536ce6.js.map",
-    "AboutMe.f8e20990.chunk.js.map": "http://localhost:3000/static/js/AboutMe.f8e20990.chunk.js.map",
-    "Blogs.0e23fbab.chunk.js.map": "http://localhost:3000/static/js/Blogs.0e23fbab.chunk.js.map",
-    "Projects.979347ce.chunk.js.map": "http://localhost:3000/static/js/Projects.979347ce.chunk.js.map"
+    "main.css": "https://chiragrupani.github.io/MySite/static/css/main.1d6d0859.css",
+    "main.js": "https://chiragrupani.github.io/MySite/static/js/main.e49bef41.js",
+    "AboutMe.js": "https://chiragrupani.github.io/MySite/static/js/AboutMe.ee113d32.chunk.js",
+    "Blogs.js": "https://chiragrupani.github.io/MySite/static/js/Blogs.ec272832.chunk.js",
+    "Projects.js": "https://chiragrupani.github.io/MySite/static/js/Projects.f40fc78f.chunk.js",
+    "service-worker.js": "https://chiragrupani.github.io/MySite/service-worker.js",
+    "index.html": "https://chiragrupani.github.io/MySite/index.html"
   },
   "entrypoints": [
-    "static/css/main.d5ccac04.css",
-    "static/js/main.c2536ce6.js"
+    "static/css/main.1d6d0859.css",
+    "static/js/main.e49bef41.js"
   ]
 }
