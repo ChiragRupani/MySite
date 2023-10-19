@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://chiragrupani.github.io/MySite/static/css/main.1d6d0859.css",
+    "main.js": "https://chiragrupani.github.io/MySite/static/js/main.e49bef41.js",
+    "AboutMe.js": "https://chiragrupani.github.io/MySite/static/js/AboutMe.ee113d32.chunk.js",
+    "Blogs.js": "https://chiragrupani.github.io/MySite/static/js/Blogs.ec272832.chunk.js",
+    "Projects.js": "https://chiragrupani.github.io/MySite/static/js/Projects.f40fc78f.chunk.js",
+    "service-worker.js": "https://chiragrupani.github.io/MySite/service-worker.js",
+    "index.html": "https://chiragrupani.github.io/MySite/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.1d6d0859.css",
+    "static/js/main.e49bef41.js"
+  ]
+}
