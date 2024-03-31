@@ -1,0 +1,63 @@
+var M=Object.defineProperty;var $=(e,n,r)=>n in e?M(e,n,{enumerable:!0,configurable:!0,writable:!0,value:r}):e[n]=r;var N=(e,n,r)=>($(e,typeof n!="symbol"?n+"":n,r),r);import{P as s,t as u,m,c as p,R as d,r as _,j as o}from"./index-CSyBv79k.js";var k=["className","cssModule","color","body","inverse","outline","tag","innerRef"];function f(){return f=Object.assign?Object.assign.bind():function(e){for(var n=1;n<arguments.length;n++){var r=arguments[n];for(var t in r)Object.prototype.hasOwnProperty.call(r,t)&&(e[t]=r[t])}return e},f.apply(this,arguments)}function I(e,n){if(e==null)return{};var r=W(e,n),t,a;if(Object.getOwnPropertySymbols){var i=Object.getOwnPropertySymbols(e);for(a=0;a<i.length;a++)t=i[a],!(n.indexOf(t)>=0)&&Object.prototype.propertyIsEnumerable.call(e,t)&&(r[t]=e[t])}return r}function W(e,n){if(e==null)return{};var r={},t=Object.keys(e),a,i;for(i=0;i<t.length;i++)a=t[i],!(n.indexOf(a)>=0)&&(r[a]=e[a]);return r}var L={body:s.bool,className:s.string,color:s.string,cssModule:s.object,innerRef:s.oneOfType([s.object,s.string,s.func]),inverse:s.bool,outline:s.bool,tag:u};function j(e){var n=e.className,r=e.cssModule,t=e.color,a=e.body,i=e.inverse,l=e.outline,c=e.tag,T=c===void 0?"div":c,S=e.innerRef,R=I(e,k),E=m(p(n,"card",i?"text-white":!1,a?"card-body":!1,t?"".concat(l?"border":"bg","-").concat(t):!1),r);return d.createElement(T,f({},R,{className:E,ref:S}))}j.propTypes=L;var V=["className","cssModule","innerRef","tag"];function g(){return g=Object.assign?Object.assign.bind():function(e){for(var n=1;n<arguments.length;n++){var r=arguments[n];for(var t in r)Object.prototype.hasOwnProperty.call(r,t)&&(e[t]=r[t])}return e},g.apply(this,arguments)}function B(e,n){if(e==null)return{};var r=A(e,n),t,a;if(Object.getOwnPropertySymbols){var i=Object.getOwnPropertySymbols(e);for(a=0;a<i.length;a++)t=i[a],!(n.indexOf(t)>=0)&&Object.prototype.propertyIsEnumerable.call(e,t)&&(r[t]=e[t])}return r}function A(e,n){if(e==null)return{};var r={},t=Object.keys(e),a,i;for(i=0;i<t.length;i++)a=t[i],!(n.indexOf(a)>=0)&&(r[a]=e[a]);return r}var C={className:s.string,cssModule:s.object,innerRef:s.oneOfType([s.object,s.string,s.func]),tag:u};function w(e){var n=e.className,r=e.cssModule,t=e.innerRef,a=e.tag,i=a===void 0?"div":a,l=B(e,V),c=m(p(n,"card-body"),r);return d.createElement(i,g({},l,{className:c,ref:t}))}w.propTypes=C;var U=["className","cssModule","tag","innerRef"];function b(){return b=Object.assign?Object.assign.bind():function(e){for(var n=1;n<arguments.length;n++){var r=arguments[n];for(var t in r)Object.prototype.hasOwnProperty.call(r,t)&&(e[t]=r[t])}return e},b.apply(this,arguments)}function J(e,n){if(e==null)return{};var r=H(e,n),t,a;if(Object.getOwnPropertySymbols){var i=Object.getOwnPropertySymbols(e);for(a=0;a<i.length;a++)t=i[a],!(n.indexOf(t)>=0)&&Object.prototype.propertyIsEnumerable.call(e,t)&&(r[t]=e[t])}return r}function H(e,n){if(e==null)return{};var r={},t=Object.keys(e),a,i;for(i=0;i<t.length;i++)a=t[i],!(n.indexOf(a)>=0)&&(r[a]=e[a]);return r}var G={tag:u,innerRef:s.oneOfType([s.object,s.func,s.string]),className:s.string,cssModule:s.object};function O(e){var n=e.className,r=e.cssModule,t=e.tag,a=t===void 0?"a":t,i=e.innerRef,l=J(e,U),c=m(p(n,"card-link"),r);return d.createElement(a,b({},l,{ref:i,className:c}))}O.propTypes=G;var q=["className","cssModule","tag"];function h(){return h=Object.assign?Object.assign.bind():function(e){for(var n=1;n<arguments.length;n++){var r=arguments[n];for(var t in r)Object.prototype.hasOwnProperty.call(r,t)&&(e[t]=r[t])}return e},h.apply(this,arguments)}function F(e,n){if(e==null)return{};var r=Y(e,n),t,a;if(Object.getOwnPropertySymbols){var i=Object.getOwnPropertySymbols(e);for(a=0;a<i.length;a++)t=i[a],!(n.indexOf(t)>=0)&&Object.prototype.propertyIsEnumerable.call(e,t)&&(r[t]=e[t])}return r}function Y(e,n){if(e==null)return{};var r={},t=Object.keys(e),a,i;for(i=0;i<t.length;i++)a=t[i],!(n.indexOf(a)>=0)&&(r[a]=e[a]);return r}var Z={className:s.string,cssModule:s.object,tag:u};function x(e){var n=e.className,r=e.cssModule,t=e.tag,a=t===void 0?"div":t,i=F(e,q),l=m(p(n,"card-header"),r);return d.createElement(a,h({},i,{className:l}))}x.propTypes=Z;var z=["className","cssModule","tag"];function y(){return y=Object.assign?Object.assign.bind():function(e){for(var n=1;n<arguments.length;n++){var r=arguments[n];for(var t in r)Object.prototype.hasOwnProperty.call(r,t)&&(e[t]=r[t])}return e},y.apply(this,arguments)}function K(e,n){if(e==null)return{};var r=Q(e,n),t,a;if(Object.getOwnPropertySymbols){var i=Object.getOwnPropertySymbols(e);for(a=0;a<i.length;a++)t=i[a],!(n.indexOf(t)>=0)&&Object.prototype.propertyIsEnumerable.call(e,t)&&(r[t]=e[t])}return r}function Q(e,n){if(e==null)return{};var r={},t=Object.keys(e),a,i;for(i=0;i<t.length;i++)a=t[i],!(n.indexOf(a)>=0)&&(r[a]=e[a]);return r}var X={className:s.string,cssModule:s.object,tag:u};function P(e){var n=e.className,r=e.cssModule,t=e.tag,a=t===void 0?"p":t,i=K(e,z),l=m(p(n,"card-text"),r);return d.createElement(a,y({},i,{className:l}))}P.propTypes=X;var ee=["className","cssModule","tag"];function v(){return v=Object.assign?Object.assign.bind():function(e){for(var n=1;n<arguments.length;n++){var r=arguments[n];for(var t in r)Object.prototype.hasOwnProperty.call(r,t)&&(e[t]=r[t])}return e},v.apply(this,arguments)}function te(e,n){if(e==null)return{};var r=re(e,n),t,a;if(Object.getOwnPropertySymbols){var i=Object.getOwnPropertySymbols(e);for(a=0;a<i.length;a++)t=i[a],!(n.indexOf(t)>=0)&&Object.prototype.propertyIsEnumerable.call(e,t)&&(r[t]=e[t])}return r}function re(e,n){if(e==null)return{};var r={},t=Object.keys(e),a,i;for(i=0;i<t.length;i++)a=t[i],!(n.indexOf(a)>=0)&&(r[a]=e[a]);return r}var ne={className:s.string,cssModule:s.object,tag:u};function D(e){var n=e.className,r=e.cssModule,t=e.tag,a=t===void 0?"div":t,i=te(e,ee),l=m(p(n,"card-title"),r);return d.createElement(a,v({},i,{className:l}))}D.propTypes=ne;const ae=`[
+  {
+    "ID": 1,
+    "title": "Writing unit tests in TypeScript",
+    "content": "In this story, we would be using TypeScript for unit testing along with popular frameworks: Mocha/Chai, Jasmine or Jest. You have decided the framework and want to write unit tests in TypeScript, Great! We would walk through changes required to support unit tests in TypeScript.",
+    "blogURL": "https://chiragrupani.medium.com/writing-unit-tests-in-typescript-d4719b8a0a40"
+  },
+  {
+    "ID": 2,
+    "title": "Create ToDo App using React, TypeScript and Mobx",
+    "content": "In this story, we are creating simple app using Mobx and React. We will explore how Mobx can simplify updates at multiple places as well as how it can be used as dependency injection.",
+    "blogURL": "https://chiragrupani.medium.com/create-todo-app-using-react-typescript-and-mobx-d83569fa3379"
+  },
+  {
+    "ID": 3,
+    "title": "How to resolve “Could not load file or assembly …",
+    "content": "When we use multiple versions of same assembly, it is more likely to encounter this runtime exception. It is easy to resolve provided that the new assembly version is backward compatible. Before going into how to resolve this issue, let's understand how runtime locates the assembly.",
+    "blogURL": "https://chiragrupani.medium.com/how-to-resolve-could-not-load-file-or-assembly-or-one-of-its-dependencies-and-why-this-cf8d48d788eb"
+  },
+  {
+    "ID": 4,
+    "title": "Latest Angular features - 2021",
+    "content": "In this story, we will peek at some of additions in recent angular versions. We will look into AOT, Service workers, Angular libraries, Angular elements and other features.",
+    "blogURL": "https://chiragrupani.medium.com/look-at-latest-angular-features-da22010cac76"
+  },
+  {
+    "ID": 5,
+    "title": ".NET Core 3 released - What’s new?",
+    "content": "With .NET Core 3 released today, in this story we will look at some of great features that are available with .NET Core 3.",
+    "blogURL": "https://chiragrupani.medium.com/lets-look-at-net-core-3-3608897f02c1"
+  },
+  {
+    "ID": 6,
+    "title": "Simple Angular app using ngrx 8+ store and effects factory methods",
+    "content": "In this story, we will use ngrx/store and ngrx/effects in angular app using simple To Do App sample. We will use latest factory methods that will simplify code significantly.",
+    "blogURL": "https://chiragrupani.medium.com/simple-angular-app-using-ngrx-8-store-and-effects-factory-methods-f3423b9f6d3b"
+  },
+  {
+    "ID": 7,
+    "title": "Vuex with TypeScript",
+    "content": "In this story, We will create sample To Do App using Vuex and TypeScript. Vuex is state management library + pattern for Vue applications. ",
+    "blogURL": "https://chiragrupani.medium.com/vuex-with-typescript-b83a62aa48a8"
+  },
+  {
+    "ID": 8,
+    "title": "Auto Publish React/Angular Front End App to GitHub Pages",
+    "content": "In this story we will walk through in publish cli generated React or Angular app to the GitHub pages. We will later automated process to deploy to GitHub pages with every push to the master branch.",
+    "blogURL": "https://chiragrupani.medium.com/auto-publish-react-angular-front-end-app-to-github-pages-3ca1641bfdf6"
+  },
+  {
+    "ID": 9,
+    "title": "Parent Child communication in Vue, Angular and React (All in TypeScript)",
+    "content": "In this story, we will look into interaction between parent and child components in popular front end technologies — Vue, Angular and React. We will look into how component can pass data to other components and how child component can emit an event along with data value that the parent component can listen to.",
+    "blogURL": "https://chiragrupani.medium.com/parent-child-communication-in-vue-angular-and-react-all-in-typescript-9a47c75cbf74"
+  },
+
+  {
+    "ID": 10,
+    "title": "Promises, Generators and Observable in JavaScript",
+    "content": "In this story we will look into different ways for performing asynchronous operation in JavaScript. JS itself actually never had direct asynchronous mechanism, surprising isn't it? JS runs in hosting environments like browsers, NodeJS. This environments provides mechanism to executing different JS code pieces over the time called Event Loop",
+    "blogURL": "https://chiragrupani.medium.com/promises-generators-and-observable-in-javascript-9f09bde7528e"
+  }
+]`;class oe extends _.Component{constructor(r){super(r);N(this,"state",{blogs:Array()})}async componentDidMount(){let r=JSON.parse(ae);this.setState({blogs:r})}render(){return o.jsxDEV("section",{id:"Blogs",style:{position:"relative"},children:[o.jsxDEV("div",{className:"centered",children:[o.jsxDEV("h1",{className:"h2 mb-4",children:"My Blogs"},void 0,!1,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:35,columnNumber:11},this),o.jsxDEV("div",{className:"blogs",children:this.state.blogs.map(r=>o.jsxDEV(j,{className:"text-white bg-dark",children:[o.jsxDEV(x,{children:o.jsxDEV(D,{className:"blobTitle",children:r.title},void 0,!1,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:42,columnNumber:21},this)},void 0,!1,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:41,columnNumber:19},this),o.jsxDEV(w,{children:[o.jsxDEV(P,{children:r.content},void 0,!1,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:45,columnNumber:21},this),o.jsxDEV(O,{href:r.blogURL,rel:"noreferrer noopener",target:"blank",children:"Read more..."},void 0,!1,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:46,columnNumber:21},this)]},void 0,!0,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:44,columnNumber:19},this)]},r.ID,!0,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:40,columnNumber:17},this))},void 0,!1,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:37,columnNumber:11},this)]},void 0,!0,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:34,columnNumber:9},this),o.jsxDEV("div",{className:"wave",children:o.jsxDEV("svg",{"data-name":"Layer 1",xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 1200 120",preserveAspectRatio:"none",children:o.jsxDEV("path",{d:"M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z",className:"shape-fill"},void 0,!1,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:66,columnNumber:13},this)},void 0,!1,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:60,columnNumber:11},this)},void 0,!1,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:59,columnNumber:9},this)]},void 0,!0,{fileName:"D:/Study/Portfolio/mysite/src/Blogs.tsx",lineNumber:33,columnNumber:7},this)}}export{oe as default};
