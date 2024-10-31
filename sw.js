@@ -78,29 +78,26 @@ define(['./workbox-0e762a35'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/AboutMe-D7-2vxtN.js",
+    "url": "assets/AboutMe-DhWiY6RY.js",
     "revision": null
   }, {
-    "url": "assets/Blogs-PbGw8JDN.js",
+    "url": "assets/Blogs-9wrBApt4.js",
     "revision": null
   }, {
-    "url": "assets/index-Cjuexs54.css",
+    "url": "assets/index-C9MFohU4.js",
     "revision": null
   }, {
-    "url": "assets/index-DEPZnZXT.js",
+    "url": "assets/index-D-n-qKud.css",
     "revision": null
   }, {
-    "url": "assets/Projects-Dwh5KPgr.js",
+    "url": "assets/Projects-DonoHGBs.js",
     "revision": null
   }, {
     "url": "index.html",
-    "revision": "79239600e4db4613103e34a11e8d7f2b"
+    "revision": "76e6d3866641692ad1ec0d225b89e407"
   }, {
     "url": "registerSW.js",
     "revision": "a4709597f0240fd903c987258e783fc3"
-  }, {
-    "url": "favicon.ico",
-    "revision": "9665a25e1485bb9e8263847d78ffbeb8"
   }, {
     "url": "android-chrome-192x192.png",
     "revision": "ec202bf96cf5ac5f78a5efceebd1553e"
@@ -108,17 +105,20 @@ define(['./workbox-0e762a35'], (function (workbox) { 'use strict';
     "url": "android-chrome-512x512.png",
     "revision": "e5f04421561ffa213b3d68be6f61071e"
   }, {
+    "url": "favicon-16x16.png",
+    "revision": "b2f22cfd7b832097bb2bc4e361861d69"
+  }, {
     "url": "favicon-32x32.png",
     "revision": "76d64e4001ecbee3712dea6beac6b141"
   }, {
-    "url": "favicon-16x16.png",
-    "revision": "b2f22cfd7b832097bb2bc4e361861d69"
+    "url": "favicon.ico",
+    "revision": "9665a25e1485bb9e8263847d78ffbeb8"
   }, {
     "url": "maskable_icon.png",
     "revision": "c99dc95e012a1ecb5341df8ffb1a3aee"
   }, {
     "url": "site.webmanifest",
-    "revision": "2ee2542122f482580c203149a83c68d2"
+    "revision": "e0d7f250d9a265dc7392c8da797a346a"
   }], {});
   workbox.cleanupOutdatedCaches();
   workbox.registerRoute(new workbox.NavigationRoute(workbox.createHandlerBoundToURL("index.html")));
