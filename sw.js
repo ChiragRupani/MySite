@@ -67,7 +67,7 @@ if (!self.define) {
     });
   };
 }
-define(['./workbox-0e762a35'], (function (workbox) { 'use strict';
+define(['./workbox-acb55742'], (function (workbox) { 'use strict';
 
   self.skipWaiting();
   workbox.clientsClaim();
@@ -78,23 +78,23 @@ define(['./workbox-0e762a35'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/AboutMe-DhWiY6RY.js",
+    "url": "assets/AboutMe-B-P0U-lb.js",
     "revision": null
   }, {
-    "url": "assets/Blogs-9wrBApt4.js",
+    "url": "assets/Blogs-Dq20NjE5.js",
     "revision": null
   }, {
-    "url": "assets/index-C9MFohU4.js",
+    "url": "assets/index-B5qdPes0.css",
     "revision": null
   }, {
-    "url": "assets/index-D-n-qKud.css",
+    "url": "assets/index-BqLBlh9b.js",
     "revision": null
   }, {
-    "url": "assets/Projects-DonoHGBs.js",
+    "url": "assets/Projects-PziHK_z3.js",
     "revision": null
   }, {
     "url": "index.html",
-    "revision": "76e6d3866641692ad1ec0d225b89e407"
+    "revision": "a8c9ffe63840d7d3c7e52553b601e893"
   }, {
     "url": "registerSW.js",
     "revision": "a4709597f0240fd903c987258e783fc3"
