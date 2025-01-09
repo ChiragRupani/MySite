@@ -78,23 +78,23 @@ define(['./workbox-acb55742'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/AboutMe-B-P0U-lb.js",
+    "url": "assets/AboutMe-DRTIsFEG.js",
     "revision": null
   }, {
-    "url": "assets/Blogs-Dq20NjE5.js",
+    "url": "assets/Blogs-DEccmk6Z.js",
     "revision": null
   }, {
-    "url": "assets/index-B5qdPes0.css",
+    "url": "assets/index-B3nkCCQ4.css",
     "revision": null
   }, {
-    "url": "assets/index-BqLBlh9b.js",
+    "url": "assets/index-DHi1TehZ.js",
     "revision": null
   }, {
-    "url": "assets/Projects-PziHK_z3.js",
+    "url": "assets/Projects-oyz_fYRo.js",
     "revision": null
   }, {
     "url": "index.html",
-    "revision": "a8c9ffe63840d7d3c7e52553b601e893"
+    "revision": "ded484e75644f298c157e8f41971fa7c"
   }, {
     "url": "registerSW.js",
     "revision": "a4709597f0240fd903c987258e783fc3"
@@ -105,14 +105,8 @@ define(['./workbox-acb55742'], (function (workbox) { 'use strict';
     "url": "android-chrome-512x512.png",
     "revision": "e5f04421561ffa213b3d68be6f61071e"
   }, {
-    "url": "favicon-16x16.png",
-    "revision": "b2f22cfd7b832097bb2bc4e361861d69"
-  }, {
-    "url": "favicon-32x32.png",
-    "revision": "76d64e4001ecbee3712dea6beac6b141"
-  }, {
     "url": "favicon.ico",
-    "revision": "9665a25e1485bb9e8263847d78ffbeb8"
+    "revision": "81897b25831c5fedfba214e1a0da9fa2"
   }, {
     "url": "maskable_icon.png",
     "revision": "c99dc95e012a1ecb5341df8ffb1a3aee"
