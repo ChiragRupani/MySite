@@ -84,10 +84,10 @@ define(['./workbox-acb55742'], (function (workbox) { 'use strict';
     "url": "assets/Blogs-DWRITKef.js",
     "revision": null
   }, {
-    "url": "assets/index-B1APiIUz.js",
+    "url": "assets/index-CZvdHSzr.js",
     "revision": null
   }, {
-    "url": "assets/index-DOEwpze2.css",
+    "url": "assets/index-dhhgyxSg.css",
     "revision": null
   }, {
     "url": "assets/jsx-dev-runtime-B1bhsaWv.js",
@@ -100,7 +100,7 @@ define(['./workbox-acb55742'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "index.html",
-    "revision": "d1b03342f7472320f3c4b03c73df0299"
+    "revision": "3517b32de3277765bb1bb407e8a117f6"
   }, {
     "url": "registerSW.js",
     "revision": "a4709597f0240fd903c987258e783fc3"
