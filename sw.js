@@ -78,29 +78,26 @@ define(['./workbox-acb55742'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/AboutMe-BHJdhtgj.js",
+    "url": "assets/AboutMe-ClkEXAMm.js",
     "revision": null
   }, {
-    "url": "assets/Blogs-DWRITKef.js",
+    "url": "assets/AboutMe-x1XGuNl0.css",
     "revision": null
   }, {
-    "url": "assets/index-CZvdHSzr.js",
+    "url": "assets/Blogs-BjgQ0z2S.js",
     "revision": null
   }, {
-    "url": "assets/index-dhhgyxSg.css",
+    "url": "assets/index-BvISa8F7.css",
     "revision": null
   }, {
-    "url": "assets/jsx-dev-runtime-B1bhsaWv.js",
+    "url": "assets/index-BXRb4mDq.js",
     "revision": null
   }, {
-    "url": "assets/Projects-WwCkd4g3.js",
-    "revision": null
-  }, {
-    "url": "assets/utils-qdU7x4xy.js",
+    "url": "assets/Projects-Dr0ssVlK.js",
     "revision": null
   }, {
     "url": "index.html",
-    "revision": "3517b32de3277765bb1bb407e8a117f6"
+    "revision": "96bad541a8be597d373ab011fe69c574"
   }, {
     "url": "registerSW.js",
     "revision": "a4709597f0240fd903c987258e783fc3"
@@ -118,7 +115,7 @@ define(['./workbox-acb55742'], (function (workbox) { 'use strict';
     "revision": "c99dc95e012a1ecb5341df8ffb1a3aee"
   }, {
     "url": "site.webmanifest",
-    "revision": "5380dcd321735cf740ad44eb9b593034"
+    "revision": "a6ea95ecaaf54027a4660fb9aab267b9"
   }], {});
   workbox.cleanupOutdatedCaches();
   workbox.registerRoute(new workbox.NavigationRoute(workbox.createHandlerBoundToURL("index.html")));
