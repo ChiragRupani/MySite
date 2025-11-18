@@ -1,0 +1,63 @@
+import{a as e,i as t,n,o as r,r as i,s as a,t as o}from"./index-CqSTvQRF.js";var s=a(r()),c=a(t()),l=a(i()),u=[`className`,`cssModule`,`color`,`body`,`inverse`,`outline`,`tag`,`innerRef`];function d(){return d=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var r in n)Object.prototype.hasOwnProperty.call(n,r)&&(e[r]=n[r])}return e},d.apply(this,arguments)}function ee(e,t){if(e==null)return{};var n=f(e,t),r,i;if(Object.getOwnPropertySymbols){var a=Object.getOwnPropertySymbols(e);for(i=0;i<a.length;i++)r=a[i],!(t.indexOf(r)>=0)&&Object.prototype.propertyIsEnumerable.call(e,r)&&(n[r]=e[r])}return n}function f(e,t){if(e==null)return{};var n={},r=Object.keys(e),i,a;for(a=0;a<r.length;a++)i=r[a],!(t.indexOf(i)>=0)&&(n[i]=e[i]);return n}var p={body:c.default.bool,className:c.default.string,color:c.default.string,cssModule:c.default.object,innerRef:c.default.oneOfType([c.default.object,c.default.string,c.default.func]),inverse:c.default.bool,outline:c.default.bool,tag:n};function m(e){var t=e.className,n=e.cssModule,r=e.color,i=e.body,a=e.inverse,c=e.outline,f=e.tag,p=f===void 0?`div`:f,m=e.innerRef,h=ee(e,u),g=o((0,l.default)(t,`card`,a?`text-white`:!1,i?`card-body`:!1,r?`${c?`border`:`bg`}-${r}`:!1),n);return s.createElement(p,d({},h,{className:g,ref:m}))}m.propTypes=p;var h=m,g=a(t()),_=a(i()),v=[`className`,`cssModule`,`innerRef`,`tag`];function y(){return y=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var r in n)Object.prototype.hasOwnProperty.call(n,r)&&(e[r]=n[r])}return e},y.apply(this,arguments)}function te(e,t){if(e==null)return{};var n=ne(e,t),r,i;if(Object.getOwnPropertySymbols){var a=Object.getOwnPropertySymbols(e);for(i=0;i<a.length;i++)r=a[i],!(t.indexOf(r)>=0)&&Object.prototype.propertyIsEnumerable.call(e,r)&&(n[r]=e[r])}return n}function ne(e,t){if(e==null)return{};var n={},r=Object.keys(e),i,a;for(a=0;a<r.length;a++)i=r[a],!(t.indexOf(i)>=0)&&(n[i]=e[i]);return n}var b={className:g.default.string,cssModule:g.default.object,innerRef:g.default.oneOfType([g.default.object,g.default.string,g.default.func]),tag:n};function x(e){var t=e.className,n=e.cssModule,r=e.innerRef,i=e.tag,a=i===void 0?`div`:i,c=te(e,v),l=o((0,_.default)(t,`card-body`),n);return s.createElement(a,y({},c,{className:l,ref:r}))}x.propTypes=b;var re=x,S=a(t()),C=a(i()),w=[`className`,`cssModule`,`tag`,`innerRef`];function T(){return T=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var r in n)Object.prototype.hasOwnProperty.call(n,r)&&(e[r]=n[r])}return e},T.apply(this,arguments)}function E(e,t){if(e==null)return{};var n=D(e,t),r,i;if(Object.getOwnPropertySymbols){var a=Object.getOwnPropertySymbols(e);for(i=0;i<a.length;i++)r=a[i],!(t.indexOf(r)>=0)&&Object.prototype.propertyIsEnumerable.call(e,r)&&(n[r]=e[r])}return n}function D(e,t){if(e==null)return{};var n={},r=Object.keys(e),i,a;for(a=0;a<r.length;a++)i=r[a],!(t.indexOf(i)>=0)&&(n[i]=e[i]);return n}var ie={tag:n,innerRef:S.default.oneOfType([S.default.object,S.default.func,S.default.string]),className:S.default.string,cssModule:S.default.object};function O(e){var t=e.className,n=e.cssModule,r=e.tag,i=r===void 0?`a`:r,a=e.innerRef,c=E(e,w),l=o((0,C.default)(t,`card-link`),n);return s.createElement(i,T({},c,{ref:a,className:l}))}O.propTypes=ie;var k=O,A=a(t()),j=a(i()),M=[`className`,`cssModule`,`tag`];function N(){return N=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var r in n)Object.prototype.hasOwnProperty.call(n,r)&&(e[r]=n[r])}return e},N.apply(this,arguments)}function P(e,t){if(e==null)return{};var n=F(e,t),r,i;if(Object.getOwnPropertySymbols){var a=Object.getOwnPropertySymbols(e);for(i=0;i<a.length;i++)r=a[i],!(t.indexOf(r)>=0)&&Object.prototype.propertyIsEnumerable.call(e,r)&&(n[r]=e[r])}return n}function F(e,t){if(e==null)return{};var n={},r=Object.keys(e),i,a;for(a=0;a<r.length;a++)i=r[a],!(t.indexOf(i)>=0)&&(n[i]=e[i]);return n}var I={className:A.default.string,cssModule:A.default.object,tag:n};function L(e){var t=e.className,n=e.cssModule,r=e.tag,i=r===void 0?`div`:r,a=P(e,M),c=o((0,j.default)(t,`card-header`),n);return s.createElement(i,N({},a,{className:c}))}L.propTypes=I;var R=L,z=a(t()),B=a(i()),V=[`className`,`cssModule`,`tag`];function H(){return H=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var r in n)Object.prototype.hasOwnProperty.call(n,r)&&(e[r]=n[r])}return e},H.apply(this,arguments)}function U(e,t){if(e==null)return{};var n=W(e,t),r,i;if(Object.getOwnPropertySymbols){var a=Object.getOwnPropertySymbols(e);for(i=0;i<a.length;i++)r=a[i],!(t.indexOf(r)>=0)&&Object.prototype.propertyIsEnumerable.call(e,r)&&(n[r]=e[r])}return n}function W(e,t){if(e==null)return{};var n={},r=Object.keys(e),i,a;for(a=0;a<r.length;a++)i=r[a],!(t.indexOf(i)>=0)&&(n[i]=e[i]);return n}var G={className:z.default.string,cssModule:z.default.object,tag:n};function K(e){var t=e.className,n=e.cssModule,r=e.tag,i=r===void 0?`p`:r,a=U(e,V),c=o((0,B.default)(t,`card-text`),n);return s.createElement(i,H({},a,{className:c}))}K.propTypes=G;var q=K,J=a(t()),ae=a(i()),oe=[`className`,`cssModule`,`tag`];function Y(){return Y=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var r in n)Object.prototype.hasOwnProperty.call(n,r)&&(e[r]=n[r])}return e},Y.apply(this,arguments)}function X(e,t){if(e==null)return{};var n=se(e,t),r,i;if(Object.getOwnPropertySymbols){var a=Object.getOwnPropertySymbols(e);for(i=0;i<a.length;i++)r=a[i],!(t.indexOf(r)>=0)&&Object.prototype.propertyIsEnumerable.call(e,r)&&(n[r]=e[r])}return n}function se(e,t){if(e==null)return{};var n={},r=Object.keys(e),i,a;for(a=0;a<r.length;a++)i=r[a],!(t.indexOf(i)>=0)&&(n[i]=e[i]);return n}var ce={className:J.default.string,cssModule:J.default.object,tag:n};function Z(e){var t=e.className,n=e.cssModule,r=e.tag,i=r===void 0?`div`:r,a=X(e,oe),c=o((0,ae.default)(t,`card-title`),n);return s.createElement(i,Y({},a,{className:c}))}Z.propTypes=ce;var le=Z,Q=e(),$=`D:/Study/Portfolio/NewPortfolio/mysite/src/Blogs.tsx`,ue=class extends s.PureComponent{constructor(e){super(e),this.state={blogs:[]}}async componentDidMount(){let e=JSON.parse(`[
+  {
+    "ID": 1,
+    "title": "Writing unit tests in TypeScript",
+    "content": "In this story, we would be using TypeScript for unit testing along with popular frameworks: Mocha/Chai, Jasmine or Jest. You have decided the framework and want to write unit tests in TypeScript, Great! We would walk through changes required to support unit tests in TypeScript.",
+    "blogURL": "https://chiragrupani.medium.com/writing-unit-tests-in-typescript-d4719b8a0a40"
+  },
+  {
+    "ID": 2,
+    "title": "Create ToDo App using React, TypeScript and Mobx",
+    "content": "In this story, we are creating simple app using Mobx and React. We will explore how Mobx can simplify updates at multiple places as well as how it can be used as dependency injection.",
+    "blogURL": "https://chiragrupani.medium.com/create-todo-app-using-react-typescript-and-mobx-d83569fa3379"
+  },
+  {
+    "ID": 3,
+    "title": "How to resolve “Could not load file or assembly …",
+    "content": "When we use multiple versions of same assembly, it is more likely to encounter this runtime exception. It is easy to resolve provided that the new assembly version is backward compatible. Before going into how to resolve this issue, let's understand how runtime locates the assembly.",
+    "blogURL": "https://chiragrupani.medium.com/how-to-resolve-could-not-load-file-or-assembly-or-one-of-its-dependencies-and-why-this-cf8d48d788eb"
+  },
+  {
+    "ID": 4,
+    "title": "Latest Angular features - 2021",
+    "content": "In this story, we will peek at some of additions in recent angular versions. We will look into AOT, Service workers, Angular libraries, Angular elements and other features.",
+    "blogURL": "https://chiragrupani.medium.com/look-at-latest-angular-features-da22010cac76"
+  },
+  {
+    "ID": 5,
+    "title": ".NET Core 3 released - What’s new?",
+    "content": "With .NET Core 3 released today, in this story we will look at some of great features that are available with .NET Core 3.",
+    "blogURL": "https://chiragrupani.medium.com/lets-look-at-net-core-3-3608897f02c1"
+  },
+  {
+    "ID": 6,
+    "title": "Simple Angular app using ngrx 8+ store and effects factory methods",
+    "content": "In this story, we will use ngrx/store and ngrx/effects in angular app using simple To Do App sample. We will use latest factory methods that will simplify code significantly.",
+    "blogURL": "https://chiragrupani.medium.com/simple-angular-app-using-ngrx-8-store-and-effects-factory-methods-f3423b9f6d3b"
+  },
+  {
+    "ID": 7,
+    "title": "Vuex with TypeScript",
+    "content": "In this story, We will create sample To Do App using Vuex and TypeScript. Vuex is state management library + pattern for Vue applications. ",
+    "blogURL": "https://chiragrupani.medium.com/vuex-with-typescript-b83a62aa48a8"
+  },
+  {
+    "ID": 8,
+    "title": "Auto Publish React/Angular Front End App to GitHub Pages",
+    "content": "In this story we will walk through in publish cli generated React or Angular app to the GitHub pages. We will later automated process to deploy to GitHub pages with every push to the master branch.",
+    "blogURL": "https://chiragrupani.medium.com/auto-publish-react-angular-front-end-app-to-github-pages-3ca1641bfdf6"
+  },
+  {
+    "ID": 9,
+    "title": "Parent Child communication in Vue, Angular and React (All in TypeScript)",
+    "content": "In this story, we will look into interaction between parent and child components in popular front end technologies — Vue, Angular and React. We will look into how component can pass data to other components and how child component can emit an event along with data value that the parent component can listen to.",
+    "blogURL": "https://chiragrupani.medium.com/parent-child-communication-in-vue-angular-and-react-all-in-typescript-9a47c75cbf74"
+  },
+
+  {
+    "ID": 10,
+    "title": "Promises, Generators and Observable in JavaScript",
+    "content": "In this story we will look into different ways for performing asynchronous operation in JavaScript. JS itself actually never had direct asynchronous mechanism, surprising isn't it? JS runs in hosting environments like browsers, NodeJS. This environments provides mechanism to executing different JS code pieces over the time called Event Loop",
+    "blogURL": "https://chiragrupani.medium.com/promises-generators-and-observable-in-javascript-9f09bde7528e"
+  }
+]`);this.setState({blogs:e})}render(){return(0,Q.jsxDEV)(Q.Fragment,{children:(0,Q.jsxDEV)(`section`,{id:`Blogs`,style:{position:`relative`},children:[(0,Q.jsxDEV)(`div`,{className:`centered`,children:[(0,Q.jsxDEV)(`h1`,{className:`h2 mb-4`,children:`My Blogs`},void 0,!1,{fileName:$,lineNumber:36,columnNumber:13},this),(0,Q.jsxDEV)(`div`,{className:`blogs`,children:this.state.blogs.map(e=>(0,Q.jsxDEV)(h,{className:`text-white`,children:[(0,Q.jsxDEV)(R,{children:(0,Q.jsxDEV)(le,{className:`blobTitle`,children:e.title},void 0,!1,{fileName:$,lineNumber:43,columnNumber:23},this)},void 0,!1,{fileName:$,lineNumber:42,columnNumber:21},this),(0,Q.jsxDEV)(re,{children:[(0,Q.jsxDEV)(q,{children:e.content},void 0,!1,{fileName:$,lineNumber:46,columnNumber:23},this),(0,Q.jsxDEV)(k,{href:e.blogURL,rel:`noreferrer noopener`,target:`blank`,children:`Read more...`},void 0,!1,{fileName:$,lineNumber:47,columnNumber:23},this)]},void 0,!0,{fileName:$,lineNumber:45,columnNumber:21},this)]},e.ID,!0,{fileName:$,lineNumber:41,columnNumber:19},this))},void 0,!1,{fileName:$,lineNumber:38,columnNumber:13},this)]},void 0,!0,{fileName:$,lineNumber:35,columnNumber:11},this),(0,Q.jsxDEV)(`div`,{className:`wave`,children:(0,Q.jsxDEV)(`svg`,{"data-name":`Layer 1`,xmlns:`http://www.w3.org/2000/svg`,viewBox:`0 0 1200 120`,preserveAspectRatio:`none`,children:(0,Q.jsxDEV)(`path`,{d:`M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z`,className:`shape-fill`},void 0,!1,{fileName:$,lineNumber:67,columnNumber:15},this)},void 0,!1,{fileName:$,lineNumber:61,columnNumber:13},this)},void 0,!1,{fileName:$,lineNumber:60,columnNumber:11},this)]},void 0,!0,{fileName:$,lineNumber:34,columnNumber:9},this)},void 0,!1)}};export{ue as default};
