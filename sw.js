@@ -67,40 +67,39 @@ if (!self.define) {
     });
   };
 }
-define(['./workbox-acb55742'], (function (workbox) { 'use strict';
+define(['./workbox-efb67e94'], (function (workbox) { 'use strict';
 
   self.skipWaiting();
   workbox.clientsClaim();
-
   /**
    * The precacheAndRoute() method efficiently caches and responds to
    * requests for URLs in the manifest.
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/AboutMe-bKRu-4oI.js",
+    "url": "registerSW.js",
+    "revision": "a4709597f0240fd903c987258e783fc3"
+  }, {
+    "url": "index.html",
+    "revision": "7968f4a6c07e85d67a861ae603fa11bd"
+  }, {
+    "url": "assets/Projects-2j2jIoHj.js",
+    "revision": null
+  }, {
+    "url": "assets/index-rdq6z7GI.js",
+    "revision": null
+  }, {
+    "url": "assets/index-BRcjLyC_.css",
+    "revision": null
+  }, {
+    "url": "assets/Blogs-Byq92vDL.js",
     "revision": null
   }, {
     "url": "assets/AboutMe-x1XGuNl0.css",
     "revision": null
   }, {
-    "url": "assets/Blogs-DJBjKpfr.js",
+    "url": "assets/AboutMe-Crx0nSEU.js",
     "revision": null
-  }, {
-    "url": "assets/index-BvISa8F7.css",
-    "revision": null
-  }, {
-    "url": "assets/index-CqSTvQRF.js",
-    "revision": null
-  }, {
-    "url": "assets/Projects-3_5dRFCM.js",
-    "revision": null
-  }, {
-    "url": "index.html",
-    "revision": "131b2e93182ef66d394b6234c2577bb4"
-  }, {
-    "url": "registerSW.js",
-    "revision": "a4709597f0240fd903c987258e783fc3"
   }, {
     "url": "android-chrome-192x192.png",
     "revision": "ec202bf96cf5ac5f78a5efceebd1553e"
