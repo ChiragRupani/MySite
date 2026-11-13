@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-  <head>    
+  <head>
     <meta charset="utf-8" />
     <meta name="color-scheme" content="dark light" />
     <!-- <link rel="icon" href="/logo.svg" /> -->
     <link rel="icon" href="/MySite/favicon.ico" />
-   <title>Chirag Rupani | Full stack .NET, ReactJS software engineer</title>
+    <title>Chirag Rupani | Full stack .NET, ReactJS software engineer</title>
     <meta
       name="description"
       content="Chirag Rupani is full stack software developer, proficient in C#, ReactJS, ASP.NET Core, ReactJS, TypeScript, JavaScript, Angular, .NET, T-SQL, Micro services and Microsoft Azure"
@@ -18,16 +18,12 @@
       property="og:description"
       content="Chirag Rupani is full stack software developer, proficient in C#, ReactJS, ASP.NET Core, ReactJS, TypeScript, JavaScript, Angular, .NET, T-SQL, Micro services and Microsoft Azure"
     />
-    <meta
-      property="og:image"
-      content="https://chiragrupani.github.io/MySite/og.png"
-    />
+    <meta property="og:image" content="https://chiragrupani.github.io/MySite/og.png" />
     <meta property="og:url" content="https://chiragrupani.github.io/MySite" />
     <meta property="og:type" content="website" />
 
     <!---- Twitter card -->
     <meta name="twitter:card" content="summary_large_image" />
-
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <link rel="apple-touch-icon" href="/MySite/assets/apple-touch-icon-acZAMqLK.png" />
@@ -38,23 +34,20 @@
       as="fetch"
       type="application/json"
     /> -->
-    <meta
-      name="google-site-verification"
-      content="nfxEdhv7S8wVjGimdHK_SD3ToTRaJFN6mc3FuBfA6ug"
-    />
+    <meta name="google-site-verification" content="nfxEdhv7S8wVjGimdHK_SD3ToTRaJFN6mc3FuBfA6ug" />
 
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Chirag Rupani",
-        "url": "https://chiragrupani.github.io/MySite",        
+        "url": "https://chiragrupani.github.io/MySite",
         "jobTitle": "Senior Software Engineer",
         "worksFor": {
           "@type": "Organization",
           "name": "Microsoft"
         },
-        "sameAs": [          
+        "sameAs": [
           "https://github.com/ChiragRupani",
           "https://stackoverflow.com/users/1545569/chirag-rupani",
           "https://www.npmjs.com/~chiragrupani",
@@ -66,7 +59,7 @@
           "ReactJS",
           "TypeScript",
           "Microsoft Azure",
-          "Cloud Architecture",          
+          "Cloud Architecture"
         ]
       }
     </script>
@@ -84,26 +77,24 @@
         top.location = self.location;
       }
     </script>
-    <script type="module" crossorigin src="/MySite/assets/index-D6SpaaOv.js"></script>
-    <link rel="stylesheet" crossorigin href="/MySite/assets/index-C1ORj5xZ.css">
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("theme");
+          if (t !== "light" && t !== "dark") {
+            t = matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+          }
+          document.documentElement.dataset.theme = t;
+        } catch (e) {
+          document.documentElement.dataset.theme = "dark";
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/MySite/assets/index-cFo8vaOK.js"></script>
+    <link rel="stylesheet" crossorigin href="/MySite/assets/index-qI9CKkek.css">
   <link rel="manifest" href="/MySite/site.webmanifest"><script id="unplugin-pwa:register-sw" src="/MySite/registerSW.js"></script></head>
   <body>
-    <!-- <canvas id="shader-bg" aria-hidden="true"></canvas>
-    <div class="readability-overlay"></div> -->
-
     <div id="root"></div>
-    <!-- <script type="module" src="./src/Shader.js"></script> -->
-    <!-- Top-Right Motion Toggle Button -->
-    <!-- <button id="bg-toggle-btn" aria-label="Toggle background motion">
-      <svg id="pause-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display: none;">
-        <rect x="6" y="4" width="4" height="16" rx="1"></rect>
-        <rect x="14" y="4" width="4" height="16" rx="1"></rect>
-      </svg>
-      <svg id="play-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <polygon points="5,3 19,12 5,21"></polygon>
-      </svg>
-      <span id="bg-toggle-text">Motion: Off</span>
-    </button> -->
     <!-- <script>
       var snowDiv=document.getElementById("snowEm");if(!snowDiv){function embRand(a,b){return Math.floor(Math.random()*(b-a+1))+a}var embCSS='.embedim-snow{position: absolute;width: 10px;height: 10px;background: #ACD5F3;border-radius: 50%;margin-top:-10px; border: 1px solid #fffafa}';var embHTML='';for(let i=1;i<12;i++){embHTML+='<i class="embedim-snow"></i>';var rndX=(embRand(0,1000000)*0.0001),rndO=embRand(-100000,100000)*0.0001,rndT=(embRand(3,8)*10).toFixed(2),rndS=(embRand(0,10000)*0.0001).toFixed(2);embCSS+='.embedim-snow:nth-child('+i+'){'+'opacity:'+(embRand(1,10000)*0.0001).toFixed(2)+';'+'transform:translate('+rndX.toFixed(2)+'vw,-10px) scale('+rndS+');'+'animation:fall-'+i+' '+embRand(10,30)+'s -'+embRand(0,30)+'s linear infinite'+'}'+'@keyframes fall-'+i+'{'+rndT+'%{'+'transform:translate('+(rndX+rndO).toFixed(2)+'vw,'+rndT+'vh) scale('+rndS+')'+'}'+'to{'+'transform:translate('+(rndX+(rndO/2)).toFixed(2)+'vw, 105vh) scale('+rndS+')'+'}'+'}'}snowDiv=document.createElement('div');snowDiv.id='snowEm';snowDiv.innerHTML='<style>#snowEm{position:fixed;left:0;top:0;bottom:0;width:100vw;height:100vh;overflow:hidden;z-index:9999999;pointer-events:none}'+embCSS+'</style>'+embHTML;document.body.appendChild(snowDiv)}
     </script> -->
