@@ -1,0 +1,13 @@
+# Chirag Rupani
+
+> Software Engineer with 13+ years of experience building scalable cloud-native applications, microservices, and modern web platforms.
+
+## Core Expertise
+- **Backend & Architecture:** C#, ASP.NET Core, Web API, Microservices
+- **Frontend:** TypeScript, ReactJS, Angular, Redux
+- **Cloud & Data:** Microsoft Azure, Container Apps, T-SQL, NoSQL
+
+## Sections
+- [About Me](https://chiragrupani.github.io/MySite/#AboutMe): Background, experience, and technical stack.
+- [Blogs](https://chiragrupani.github.io/MySite/#Blogs): Technical articles on .NET, Azure, and frontend architecture.
+- [Projects](https://chiragrupani.github.io/MySite/#Projects): Selected engineering projects and case studies.
